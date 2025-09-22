@@ -17,6 +17,7 @@ This is an academic website template.
 - Mobile friendly
 - Supporting Markdown 
 - Supporting dark mode
+- test feature
 
 ## Step-by-step instructions
 
