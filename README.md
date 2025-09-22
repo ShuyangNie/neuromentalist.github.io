@@ -27,14 +27,14 @@ See [instructions here](https://docs.github.com/en/pages/quickstart).
 There are additional options if you have purchased your own domain name, or have access to a domain name through your school / department / institution.
 
 Once you have finished this step, your website is *publically* viewable by *anyone on the internet*!
-Yay! 
+Great! 
 Also, this means you need to finish the rest of these steps ASAP to make the website accurate and presentable.
 
 ### 2. Edit the `_config.yml` file
 
 This contains basic data such as your name, institution, and some contact info.
 
-Add a photo to the folder `assets/img/` directory.
+Add a photo to the `assets/img/` directory.
 
 ### 3. Edit the `index.md` file
 
@@ -49,6 +49,7 @@ Optionally, you could choose to write everything in the `index.md` file, but the
 ### 4. Edit the `publications.yml` file
 
 This contains the data of your publications.
+Replace this with your own publication data, following the examples.
 
 Some data may require you to add files to the `assets/files/` directory.
 If you want to include thumbnails next to your publications, include these in the `assets/img/` directory.
@@ -61,12 +62,14 @@ Some data may require you to add files to the `assets/files/` directory.
 
 ### 6. Decide on other optional configuration parameters
 
-???
+See below
 
 To modify the appearance of the website, edit `_layouts/homepage.html` and / or `_sass/minimal-light.scss`.
 
 To modify the appearance of the publications and notes, edit the `_includes/publications.html` and `_includes/notes.html` files, respectively.
 
+
+## Optional customization 
 
 
 
@@ -112,8 +115,6 @@ View the live page using `localhost`:
 
 
 
-
-## Optional customization 
 
 
 
