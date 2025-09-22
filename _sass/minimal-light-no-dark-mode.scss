@@ -109,7 +109,10 @@ code {
 
 email {
   font-size: 14px;
-  font-family: "Ubuntu Mono";
+  font-family: monospace, "Ubuntu Mono";
+  white-space: nowrap;
+  margin-left: -100%;
+  margin-right: -100%;
 }
 
 .icon-button i {
@@ -201,7 +204,7 @@ papertitle {
 }
 
 .image.avatar img {
-  width: 85%;
+  width: 200px;
   border-radius: 15%;
   // border-radius: 100%;
   margin: 20px 10px;
@@ -277,7 +280,7 @@ a:hover small {
 }
 
 .wrapper {
-  width: 960px;
+  width: 1080px;
   margin: 0 auto;
 }
 
@@ -335,15 +338,13 @@ th {
 // }
 
 header {
-  width: 232px;
+  width: 240px;
   float: left;
   position: fixed;
   -webkit-font-smoothing: subpixel-antialiased;
   padding-top: 4.0em;
   text-align: center
 }
-
-
 
 header ul {
   list-style: none;
@@ -405,10 +406,11 @@ header ul a strong {
 }
 
 main {
-  width: 650px;
+  width: 640px;
   float: right;
   padding-top: 4.0em;
   padding-bottom: 50px;
+  padding-right: 100px;
 }
 
 small {
@@ -432,7 +434,7 @@ footer {
 }
 
 @media print,
-screen and (max-width: 960px) {
+screen and (max-width: 1040px) {
 
   .pub-row, .note-row {
     display: flex;
@@ -492,7 +494,7 @@ screen and (max-width: 960px) {
 }
 
 @media print,
-screen and (max-width: 960px) {
+screen and (max-width: 1040px) {
   body {
     word-wrap: break-word;
     padding: 15px;
