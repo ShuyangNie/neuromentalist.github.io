@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://github.com/harryrichman/minimal-light-academic/blob/main/LICENSE)
 
-This is an academic website template.
+This is an academic website template, based off of Yaoyao Liu's [minimal-light](https://github.com/yaoyao-liu/minimal-light) theme.
 \[[Demo the theme](https://harryrichman.github.io/minimal-light-academic/)\]  
  
 
@@ -69,30 +69,6 @@ To modify the appearance of the publications and notes, edit the `_includes/publ
 
 
 
-## Project Architecture
-
-```
-.
-├── _data                    
-|   └── publications.yml                      # the data for your publications
-├── _includes                    
-|   ├── publications.html                     # the formatting for publications
-|   └── services.html                         # the formatting for services
-├── _layouts                  
-|   └── homepage.html                         # the html template for the homepage 
-├── _sass
-|   ├── minimal-light.scss                    # compiled into a CSS file to control the style of the page              
-|   └── minimal-light-no-dark-mode.scss       # similar to minimal-light.scss with the dark mode disabled
-├── assets                                    # some files
-├── .gitignore                                # this file specifies intentionally untracked files that Git should ignore
-├── Gemfile                                   #  
-├── LICENSE                                   # the license file
-├── README.md                                 # readme file (English)
-├── README_zh_Hans.md                         # readme file (Simplified Chinese)
-├── README_zh_Hant.md                         # readme file (Traditional Chinese)
-├── _config.yml                               # Jekyll configuration file, including some options of the page  
-└── index.md                                  # the content of the index page, using Markdown
-```
 
 ## Advanced options
 
@@ -122,8 +98,8 @@ First, install [Ruby](https://www.ruby-lang.org/en/) and [Jekyll](https://jekyll
 Then, clone this repository:
 
 ```bash
-git clone https://github.com/yaoyao-liu/minimal-light.git
-cd minimal-light
+git clone https://github.com/harryrichman/minimal-light-academic.git
+cd minimal-light-academic
 ```
 Install and run:
 
@@ -136,11 +112,8 @@ View the live page using `localhost`:
 
 
 
-## Customizing
 
-### Required customization
-
-### Optional customization 
+## Optional customization 
 
 
 
