@@ -10,11 +10,10 @@ This is an academic website template, based off of Yaoyao Liu's [minimal-light](
 
 ### 1. Make a copy of this repository in your github account
 
-Known as "forking" the repository.
+<!-- Known as "forking" the repository. -->
 
-See instructions from GitHub [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository).
-Just follow steps 1.-7. there.
-You can ignore everything from "Cloning your forked repository" and afterwards.
+See instructions from GitHub [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template).
+
 
 Then, do the following steps to the files in *your* version of the repository.
 
