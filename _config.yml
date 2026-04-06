@@ -12,7 +12,7 @@ url: "https://neuromentalist.github.io"
 baseurl: ""
 
 # Basic Information 
-title: Shuyang Nie (聂书扬)
+title: Shuyang Nie
 position: M.S. Student
 major: Pharmaceutical Science
 affiliation: Zhejiang University
@@ -23,7 +23,7 @@ avatar: ./assets/img/personal_picture.jpg
 
 # Sidebar Links 
 # For those you don't need, delete or comment out the corresponding line.
-email: mailto:Vengurn@gmail.com
+email: Vengurn@gmail.com
 cv_link: assets/files/shinchan_sample_cv.pdf # To be edited
 github_link: https://github.com/ShuyangNie
 
