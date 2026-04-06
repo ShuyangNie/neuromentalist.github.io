@@ -1,13 +1,13 @@
 main:
 
   - title: Decoding molecular and cellular underpinnings of macroscopic spatial brain phenotypes with ZOOM
-    authors: **Shuyang Nie***, Dadao An*, Zhuchen Zhou*, Qikun Zhao*, Ziyi Zhang, Jinjin Zhu, Mengting Liu, Shuo Zhang, Yifei Wang, Jie Liao, and Yanrong Zheng
+    authors: "**Shuyang Nie***, Dadao An*, Zhuchen Zhou*, Qikun Zhao*, Ziyi Zhang, Jinjin Zhu, Mengting Liu, Shuo Zhang, Yifei Wang, Jie Liao, and Yanrong Zheng"
     code: https://github.com/SpaTrek/ZOOM
     image: ./assets/img/ZOOM.png
     notes: submitted
 
   - title: Advancing ADMET prediction through multiscale fragment-aware pretraining with MSformer-ADMET
-    authors: Huihui Liu*, Bingjie Zhu*, **Shuyang Nie***, Haoran Li, Yugang Lin, Tianyi Ma, Xin Shao, Qian Chen, Minjie Shen, Yanrong Zheng, Xiaohui Fan, and Jie Liao
+    authors: "Huihui Liu*, Bingjie Zhu*, **Shuyang Nie***, Haoran Li, Yugang Lin, Tianyi Ma, Xin Shao, Qian Chen, Minjie Shen, Yanrong Zheng, Xiaohui Fan, and Jie Liao"
     journal: Briefings in Bioinformatics
     year: 2025
     link: https://doi.org/10.1093/bib/bbaf506
