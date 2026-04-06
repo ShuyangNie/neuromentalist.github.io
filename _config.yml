@@ -8,31 +8,26 @@
 ############################
 
 # Basic Information 
-title: Gary Fishman
-position: Ph.D. Student
-affiliation: National Taiwan University<br>國立台灣大學
-affiliation_link: https://www.math.ntu.edu.tw/
-email: fishman (at) university.edu
-# address: No. 1, Sec. 4, Roosevelt Rd.<br>Taipei City 106, Taiwan (R.O.C.)
+title: Shuyang Nie (聂书扬)
+position: M.S. Student
+major: Pharmaceutical Science
+affiliation: Zhejiang University
+affiliation_link: https://www.zju.edu.cn/english/
 
 # your profile picture
-avatar: ./assets/img/profile_alt.jpg
+avatar: ./assets/img/personal_picture.jpg
 
 # Sidebar Links 
 # For those you don't need, delete or comment out the corresponding line.
-cv_link: assets/files/shinchan_sample_cv.pdf
-arxiv: https://arxiv.org/a/0000-0002-0101-0521
-google_scholar: https://scholar.google.com/citations?user=_D7ce2cAAAAJ&sortby=pubdate
-math_overflow: https://mathoverflow.net/users/81295/harry-richman
+email: mailto:Vengurn@gmail.com
+cv_link: assets/files/shinchan_sample_cv.pdf # To be edited
 github_link: https://github.com/harryrichman
-# linkedin: https://www.linkedin.com/in/harry-richman/
-# orcid: https://orcid.org/0000-0002-0101-0521
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-description: The academic personal homepage of Gary Fishman.
-keywords: Gary Fishman academic research mathematics
-canonical: https://harryrichman.github.io/minimal-light-academic/
+description: The academic personal homepage of Shuyang Nie.
+keywords: Shuyang Nie academic research computational biology
+canonical: https://neuromentalist.github.io/
 
 
 ############################
