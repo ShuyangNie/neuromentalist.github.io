@@ -64,6 +64,9 @@
       <position style="font-size:1.10rem;">{{ site.position }}</position>
       <br>
       {% endif %}
+      {% if site.major %}
+      <div style="font-size:1.05rem; color: #4f4f4f;">{{ site.major }}</div>
+      {% endif %}
       {% if site.affiliation %}
       <a href="{{ site.affiliation_link }}" rel="noopener">
         <autocolor>{{ site.affiliation }}</autocolor>
