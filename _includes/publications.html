@@ -13,7 +13,7 @@
         {% if site.enable_publication_thumbnails %}
         <div class="col-sm-4 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           {% if pub.image %}
-          <img src="{{ pub.image }}" class="teaser img-fluid z-depth-1" style="object-fit: contain; max-height: 100%; width: 100%;">
+          <img src="{{ pub.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; max-height: none; object-fit: initial; margin-left: 0;">
           {% if pub.journal_short %}
           <abbr class="badge">{{ pub.journal_short }}</abbr>
           {% endif %}
