@@ -11,9 +11,7 @@ My research interests lie in leveraging **single-cell and spatial transcriptomic
 ## Publications
 
 <small>* indicates equal contribution</small>
-
 {% include_relative _includes/publications.html %}
-
 Beyond my primary research, I have collaborated on two projects applying transcriptomics to the study of psychiatric disorders. These manuscripts are currently under preparation for publication; for further details, please refer to my CV.
 
 ## Selected Honors
