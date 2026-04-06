@@ -4,76 +4,28 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at National Taiwan University, advised by [Chee-Chun Leung (梁次震)](https://www.theplan.it/eng/award-2020-Education/ntu-chee-chun-leung-cosmology-hall-a-floating-cube-in-space-kris-yao-artech).
-Before coming to NTU I studied math at the [University of Washington](http://math.washington.edu/).
+I am a second-year Master’s student in **Neuropharmacology** at **Zhejiang University**, where I am co-supervised by [Prof. Zhong Chen](http://cpsen.zju.edu.cn/2017/0818/c12966a597612/page.htm), [Dr. Yanrong Zheng](https://loop.frontiersin.org/people/1247642/bio), and [Dr. Jie Liao](https://scholar.google.com/citations?user=C9S3OP8AAAAJ&hl=en). Prior to this, I earned my Bachelor’s degree in Pharmaceutical Science from Zhejiang University in June 2024.
 
-I study equations of the form $\int_0^\infty e^{-2\pi x^2} \, dx$.
-I am also interested in the  groups \\(H_k(\mathcal M_g, \mathbb Q)\\) and 
-$\pi_k(\mathrm{Sym}^\infty \mathcal M^\mathrm{trop}_g)$.
-
-
-## Research Interests
-
-- **Tropical geometry:** curves and Jacobians, Weierstrass points
-- **Number theory:** uniform bounds on rational points, Riemann hypothesis
-- **Biology:** evolution of bats
-
-## News
-
-- **[Feb. 2020]** Seminar talk at NTU graduate student event
-- **[Feb. 2020]** Colloquium talk at Chung Hsing University 中興大學
-- **[Sept. 2019]** Started Ph.D. program at NTU
-- **[Mar. 2019]** Graduated from Univeristy of Washington with bachelors degree.
+My research interests lie in leveraging **single-cell and spatial transcriptomics** to uncover novel neurobiological mechanisms. I am particularly fascinated by how molecular and cellular underpinnings in the brain orchestrate the emergence of consciousness.
 
 ## Publications
 
+<small>* indicates equal contribution</small>
+
 {% include_relative _includes/publications.html %}
 
-## Notes and Presentations
+Beyond my primary research, I have collaborated on two projects applying transcriptomics to the study of psychiatric disorders. These manuscripts are currently under preparation for publication; for further details, please refer to my CV.
 
-{% include_relative _includes/notes.html %}
+## Selected Honors
 
-## Teaching
+- **Zhejiang Provincial Government Scholarship** (Top 5%), 2022
+- **Zhejiang Provincial Government Scholarship** (Top 5%), 2021
+- **Outstanding Graduate of Zhejiang University** (Top 10%), 2024
 
-I have experience teaching the fundamental theorem of calculus
-\\[ \int_a^b f'(x) \, dx = f(b) - f(a) .\\]
-This is related to the isomorphism
-$\mathrm{Pic}^0(X) \cong H^0(X, \Omega^1)^\vee / H_1(X, \mathbb Z)$
-when $X$ is an algebraic curve.
+## Beyond Academia
 
-**University of Washington**
+Outside of my research, I enjoy exploring the boundaries of perception and culture:
+* **Magic:** I practice card magic with a focus on psychological illusions, drawing inspiration from performers like [Derren Brown](https://en.wikipedia.org/wiki/Derren_Brown).
+* **Linguistics:** I have a keen interest in Japanese phonetics and enjoy performing Japanese songs.
 
-- [Math 115](https://dept.math.lsa.umich.edu/courses/115/), Calculus 1, Fall 2019
-- [Math 208](https://sites.math.washington.edu/~m208/), Linear Algebra, Fall 2020
-
-## Service
-
-#### Organizer 
-- Student Combinatorics Seminar, University of Washington
-- Directed Reading Program
-
-#### Journal Reviewer
-- INTEGERS
-- Electronic Journal of Combinatorics
-- Taiwanese J. Math.
-- Inventiones
-
-## Misc. Links
-
-- [MathSciNet](https://mathscinet.ams.org/mathscinet)
-- [Online Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
-
-**Other template features:**
-- Mathjax enabled: use `$...$` or `\\(...\\)` for inline mode; use `\\[...\\]` for display mode
-
-- Markdown code:
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-    s.add_dependency(gem, "= #{version}")
-end
-```
-
-- Markdown for a math quote:
-> God is always doing geometry  
-> -- Plato
+> "本自具足 — Originally Complete."
