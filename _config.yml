@@ -7,6 +7,10 @@
 # Required Configuration
 ############################
 
+# Deployment Settings
+url: "https://neuromentalist.github.io"
+baseurl: ""
+
 # Basic Information 
 title: Shuyang Nie (聂书扬)
 position: M.S. Student
