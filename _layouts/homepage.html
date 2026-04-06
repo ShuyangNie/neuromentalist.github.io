@@ -73,13 +73,16 @@
       <div class="address">{{ site.address }}</div>
       {% endif %}
       {% endif %}
-      {% if site.email %}
-      <email>{{ site.email }}</email>
-      {% endif %}
 
       <br>
       <br>
       <div class="social-icons">
+        {% if site.email %}
+        <a style="margin: 0 5px 0 0" href="mailto:{{ site.email }}">
+          <i class="fa-solid fa-envelope"></i>
+        </a>
+        {% endif %}
+        
         {% if site.arxiv %}
         <a style="margin: 0 5px 0 0" href="{{ site.arxiv }}">
           <i class="ai ai-arxiv"></i>
