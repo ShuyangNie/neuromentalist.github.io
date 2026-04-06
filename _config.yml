@@ -25,13 +25,13 @@ avatar: ./assets/img/personal_picture.jpg
 # For those you don't need, delete or comment out the corresponding line.
 email: mailto:Vengurn@gmail.com
 cv_link: assets/files/shinchan_sample_cv.pdf # To be edited
-github_link: https://github.com/harryrichman
+github_link: https://github.com/ShuyangNie
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 description: The academic personal homepage of Shuyang Nie.
 keywords: Shuyang Nie academic research computational biology
-canonical: https://neuromentalist.github.io/
+canonical: https://neuromentalist.github.io
 
 
 ############################
