@@ -11,9 +11,9 @@
     <li>
       <div class="pub-row">
         {% if site.enable_publication_thumbnails %}
-        <div class="col-sm-3 abbr d-flex align-items-center justify-content-center" style="position: relative;padding-right: 15px;padding-left: 15px;">
+        <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
           {% if pub.image %}
-          <img src="{{ pub.image }}" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; object-fit: contain;">
+          <img src="{{ pub.image }}" class="teaser img-fluid z-depth-1">
           {% if pub.journal_short %}
           <abbr class="badge">{{ pub.journal_short }}</abbr>
           {% endif %}
