@@ -16,8 +16,8 @@ Beyond my primary research, I have collaborated on two projects applying transcr
 
 ## Selected Honors
 
-- **Zhejiang Provincial Government Scholarship** (Top 5%), 2022
 - **Zhejiang Provincial Government Scholarship** (Top 5%), 2021
+- **Zhejiang Provincial Government Scholarship** (Top 5%), 2022
 - **Outstanding Graduate of Zhejiang University** (Top 10%), 2024
 
 ## Beyond Academia
