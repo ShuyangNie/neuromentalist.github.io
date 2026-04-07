@@ -13,7 +13,7 @@ baseurl: ""
 
 # Basic Information 
 title: Shuyang Nie
-position: M.S. Student
+position: M.M. Student
 major: Pharmaceutical Science
 affiliation: Zhejiang University
 affiliation_link: https://www.zju.edu.cn/english/
@@ -22,7 +22,7 @@ avatar: ./assets/img/personal_picture.jpg
 # Sidebar Links 
 # For those you don't need, delete or comment out the corresponding line.
 email: Vengurn@gmail.com
-cv_link: assets/files/shinchan_sample_cv.pdf # To be edited
+cv_link: assets/files/CV.pdf
 github_link: https://github.com/ShuyangNie
 
 # Search Engine Optimization (SEO)
