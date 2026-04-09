@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a second-year Master’s student in **Neuropharmacology** at **Zhejiang University**, where I am co-supervised by [Prof. Zhong Chen](http://cpsen.zju.edu.cn/2017/0818/c12966a597612/page.htm), [Dr. Yanrong Zheng](https://loop.frontiersin.org/people/1247642/bio), and [Dr. Jie Liao](https://scholar.google.com/citations?user=C9S3OP8AAAAJ&hl=en). Prior to this, I earned my Bachelor’s degree in Pharmaceutical Science from Zhejiang University in June 2024.
+I am a second-year Master’s student in **Neuropharmacology** at **Zhejiang University**, where I am co-supervised by [Dr. Yanrong Zheng](https://loop.frontiersin.org/people/1247642/bio), and [Dr. Jie Liao](https://scholar.google.com/citations?user=C9S3OP8AAAAJ&hl=en). Prior to this, I earned my Bachelor’s degree in Pharmaceutical Science from Zhejiang University in June 2024.
 
 My research interests lie in leveraging **single-cell and spatial transcriptomics** to uncover novel neurobiological mechanisms. I am particularly fascinated by how molecular and cellular underpinnings in the brain orchestrate the emergence of consciousness.
 
